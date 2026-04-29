@@ -1,2 +1,2 @@
-# Task-1
-# This is a description for Task 1
+# Simple Interest Calculator
+This project calculates simple interest using a bash script.
